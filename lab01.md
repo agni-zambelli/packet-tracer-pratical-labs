@@ -8,3 +8,11 @@ Sem o DHCP, os dispositivos precisariam ser configurados manualmente com seu end
 * **Centralização e praticidade:** Facilita a alteração de parâmetros da rede (como o gateway ou servidores DNS) em um único ponto, sem precisar alterar dispositivo por dispositivo.
 * **Escalabilidade:** Permite o reaproveitamento de IPs de dispositivos que se desconectam, otimizando o uso do bloco de endereços disponível.
 
+* Abaixo está um vídeo de laboratório como é feito na prática esta configuração
+
+  
+
+https://github.com/user-attachments/assets/152c4a91-7ca0-4797-a650-0395c087988f
+
+
+
